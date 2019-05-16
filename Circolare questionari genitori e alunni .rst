@@ -1,10 +1,14 @@
-\ |STYLE0|\ 
+
+.. _h113c35716f6d6d656a21a7a4f27336:
+
+OGGETTO: Attività di Autovalutazione d’Istituto – Questionari Customer Satisfaction genitori e alunni.-
+#######################################################################################################
 
  
 
 Al fine di raccogliere informazioni che ci permettano una valutazione più precisa e articolata del Piano dell’Offerta Formativa della nostra istituzione, e migliorare l’efficacia dell’azione didattico-educativa, si invitano famiglie e alunni alla compilazione dei questionari di gradimento e ad esprimere eventuali suggerimenti e/o osservazioni, così da poter predisporre per l’a.s. 2019/20 un Piano di miglioramento il più possibile rispondente al fabbisogno culturale-formativo degli stakeholder.
 
- I questionari sono anonimi e compilabili on line sul nostro sito web, semplicemente selezionando il link \ |STYLE1|\  o \ |STYLE2|\ . Questi ultimi sono presenti nella parte alta della pagina iniziale del sito, come evidenziato nell’immagine seguente:
+ I questionari sono anonimi e compilabili on line sul nostro sito web, semplicemente selezionando il link \ |STYLE0|\  o \ |STYLE1|\ . Questi ultimi sono presenti nella parte alta della pagina iniziale del sito, come evidenziato nell’immagine seguente:
 
 \ |IMG1|\ 
 
@@ -18,11 +22,9 @@ Si confida nella più ampia collaborazione dei coordinatori di classe che, per s
 .. bottom of content
 
 
-.. |STYLE0| replace:: **OGGETTO: Attività di Autovalutazione d’Istituto – Questionari Customer Satisfaction genitori e alunni.-**
+.. |STYLE0| replace:: *Questionario Alunni*
 
-.. |STYLE1| replace:: *Questionario Alunni*
-
-.. |STYLE2| replace:: *Questionario Genitori*
+.. |STYLE1| replace:: *Questionario Genitori*
 
 .. |IMG1| image:: static/Circolare_questionari_genitori_e_alunni__1.png
    :height: 292 px
